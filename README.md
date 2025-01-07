@@ -1,1 +1,1 @@
-# poetry_demo
+# projectile_motion_simulator
