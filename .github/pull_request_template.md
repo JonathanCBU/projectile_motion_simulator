@@ -10,11 +10,6 @@
 
 ### Removed
 
-## Related Issues
-
-- [Linear Issue]( add link here )
-- [Related PR]( add link here )
-
 ## Pre-review Checklist
 
 - [ ] self-review of changes
